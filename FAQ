@@ -1,0 +1,55 @@
+General Questions
+
+What is the FaceLogger app?
+FaceLogger is a mobile app that uses facial recognition to generate and store facial embeddings for secure authorization in club activities and facility access.
+
+Who can use FaceLogger?
+Only registered club members can use FaceLogger. You must create a facial profile during registration.
+
+How does FaceLogger work?
+The app captures multiple angles of your face, generates unique facial embeddings, and stores them securely for future identity verification.
+
+Facial Embeddings:
+
+What are facial embeddings?
+Facial embeddings are mathematical representations of your facial features, created from multiple face angles, used for secure identification.
+
+How are embeddings generated?
+FaceLogger takes photos of your face from different angles, processes them with machine learning (e.g., CNNs), and creates a unique embedding.
+
+Where are my embeddings stored?
+Embeddings are stored in a secure, encrypted database, accessible only by authorized club systems.
+
+Authorization and Access:
+
+What if FaceLogger doesn’t recognize my face?
+Retry the scan or use an alternative verification method (e.g., PIN or manual check-in). Contact a club admin if issues persist.
+
+Privacy and Security:
+
+Is my facial data secure?
+Yes, embeddings are encrypted and stored securely, compliant with privacy laws like GDPR. No actual face images are saved.
+
+Will my data be shared or sold?
+No, your embeddings are used only for club authorization and are never shared or sold.
+
+What happens if I leave the club?
+Your embeddings can be deleted upon request. Contact the club administrator to initiate data removal.
+
+
+Technical Questions:
+
+What devices support FaceLogger?
+FaceLogger works on iOS and Android devices with a camera (720p resolution or higher recommended).
+
+Does FaceLogger work in poor lighting?
+Optimal lighting improves accuracy. Adjust lighting or position if issues occur, or contact an admin for support.
+
+
+Additional Information:
+
+How do I provide feedback or report issues?
+Use the app’s support feature or contact the club administrator directly.
+
+Where can I learn more about FaceLogger?
+Check the club’s website or contact the administrator for guides, tutorials, or training sessions.
